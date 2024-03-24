@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/intelliJIdea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/intelliJIdea-000000?style=for-the-badge&logo=intellij&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 <br/>
 <br/>
@@ -32,12 +30,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
 
 <br/>
 <br/>
