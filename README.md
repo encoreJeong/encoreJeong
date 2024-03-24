@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<img src="https://img.shields.io/badge/intelliJIdea-000000?style=for-the-badge&logo=intellij&logoColor=white"/>
+<img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
 
